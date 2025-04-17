@@ -1,0 +1,19 @@
+This is a sample text file for testing flags in s21_cat.
+
+
+
+
+
+
+
+
+Line 1
+Line 2 with some tabs:	tab1	tab2	tab3
+Line 3 with some special characters: $%^&*()_+
+Line 4 is empty.
+
+Line 5
+Line 6 has trailing spaces.      
+Line 7 is another empty line.
+
+The end of the file.
